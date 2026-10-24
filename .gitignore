@@ -1,0 +1,30 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+*$py.class
+build/
+dist/
+wheels/
+*.egg-info/
+
+# Virtual environments
+.venv/
+env/
+venv/
+
+# Database
+*.sqlite3
+*.sqlite3-journal
+
+# Testing and type checking
+.pytest_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+
+# Environment and IDE
+.env
+.idea/
+.vscode/
+*.swp
+*.swo
